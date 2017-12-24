@@ -1,7 +1,7 @@
 # sampleGit
 Sample Git Project
 ## INTRODUCTION
-Sample intoduction
+Sample intoduction.adding text for rebasing example.
 
 ## PURPOSE
 Sample purpose
