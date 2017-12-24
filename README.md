@@ -4,8 +4,10 @@ Sample Git Project
 Sample intoduction
 
 ## PURPOSE
+Sample purpose
 
 ## Deployment
+Sample Deployment
 
 ## how to contribute
  
