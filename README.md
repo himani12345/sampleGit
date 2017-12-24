@@ -2,7 +2,7 @@
 Sample Git Project
 ## INTRODUCTION
 Sample intoduction.adding text for rebasing example.
-
+another change after rebase from rebasing branch
 ## PURPOSE
 Sample purpose
 
