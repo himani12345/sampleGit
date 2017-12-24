@@ -1,4 +1,10 @@
 # sampleGit
-##INTRODUCTION
-##PURPOSE
-##how to contribute
+
+## INTRODUCTION
+
+## PURPOSE
+
+## Deployment
+
+## how to contribute
+ 
