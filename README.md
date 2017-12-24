@@ -11,3 +11,5 @@ Sample Deployment
 
 ## how to contribute
  
+## copyright
+Sample copyright
