@@ -10,6 +10,7 @@ Sample purpose
 Sample Deployment
 
 ## how to contribute
+fork this rep and isue pull request
  
 ## copyright
 Sample copyright
