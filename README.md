@@ -1,6 +1,7 @@
 # sampleGit
-
+Sample Git Project
 ## INTRODUCTION
+Sample intoduction
 
 ## PURPOSE
 
