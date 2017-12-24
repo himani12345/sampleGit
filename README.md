@@ -4,6 +4,7 @@ Sample Git Project
 Sample intoduction.adding text for rebasing example.
 another change after rebase from rebasing branch
 more changes from master
+master1
 ## PURPOSE
 Sample purpose
 
