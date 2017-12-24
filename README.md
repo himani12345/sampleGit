@@ -5,6 +5,7 @@ Sample intoduction.adding text for rebasing example.
 another change after rebase from rebasing branch
 rebasing branch1
 rb 2
+pull with rebase
 
 more changes from master
 master1
